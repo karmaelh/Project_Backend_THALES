@@ -1,0 +1,30 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Fichiers de base de données
+*.db
+*.sqlite3
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# Fichiers d'environnement
+.env
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# Exemples
+*.bak
+*.swp
