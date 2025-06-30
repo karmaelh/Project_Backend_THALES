@@ -20,6 +20,6 @@ def create_app():
 
     @app.route('/')
     def home():
-        return "Welcome to the Training API!"
+        return "Welcome to the Training API !!!!!!"
 
     return app
